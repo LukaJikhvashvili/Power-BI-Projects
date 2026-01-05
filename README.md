@@ -14,6 +14,8 @@ Resources
 
 Quick start
 
-1. Open either project folder in Power BI Desktop and open the corresponding `.pbix` file (`Data_Jobs_Dashboard.pbix` or `Data_Jobs_Dashboard_2.0.pbix`).
-2. Explore the report pages, slicers, and visual interactions.
-3. You can see the links to the published reports on Power BI service.
+1. unzip the Data.zip to get data
+2. Open either project folder in Power BI Desktop and open the corresponding `.pbix` file (`Data_Jobs_Dashboard.pbix` or `Data_Jobs_Dashboard_2.0.pbix`).
+3. make sure that data sources are valid in power query
+4. Explore the report pages, slicers, and visual interactions.
+5. You can see the links to the published reports on Power BI service.
