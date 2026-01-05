@@ -4,7 +4,7 @@
   <img src="../Resources/images/Project1_Dashboard_Overview.gif" alt="Data Jobs Dashboard GIF">
 </a>
 
-> <a href="https://app.powerbi.com/groups/me/reports/a2e9d3dc-1e18-47f0-9ef3-9af37ccb1397/b309e62db0dc628c8c6b?experience=power-bi" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
+> <a href="https://app.powerbi.com/reportEmbed?reportId=a2e9d3dc-1e18-47f0-9ef3-9af37ccb1397&autoAuth=true&ctid=374da15e-4fe7-4a20-b4f5-cfb1d0782e57" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
 
 ## Introduction
 
